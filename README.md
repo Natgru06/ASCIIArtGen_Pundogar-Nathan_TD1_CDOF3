@@ -7,3 +7,7 @@ Provide simple text to the program and watch it output beautiful ASCII art that 
 ## How to run it ?
 
 Simply run projet.py don't forget to install *pyfiglet* before
+
+## Documentation
+
+[pyfiglet](https://pypi.org/project/pyfiglet/) - Documentation
