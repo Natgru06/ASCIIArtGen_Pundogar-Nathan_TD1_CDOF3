@@ -11,3 +11,4 @@ Simply run projet.py don't forget to install *pyfiglet* before
 ## Documentation
 
 [pyfiglet](https://pypi.org/project/pyfiglet/) - Documentation
+https://fr.wiktionary.org/wiki/ASCII#:~:text=Nom%20commun,-Invariable&text=(Couche%20pr%C3%A9sentation)%20Norme%20qui%20a,num%C3%A9rot%C3%A9s%20de%200%20%C3%A0%20127.
