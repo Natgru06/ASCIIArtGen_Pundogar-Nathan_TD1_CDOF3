@@ -16,7 +16,7 @@ if __name__ == "__main__":
     print_available_fonts()
     font_choice = input("Enter font (or press Enter for standard): ")
 
-    if not font_choice :
+    if not font_choice or font_choice not in Figlet().getFonts():
         font_choice = 'standard'
 
     result = generate_ascii_art(input_text, font_choice)
